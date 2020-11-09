@@ -4,7 +4,7 @@
 Explorar base de dados do sistema educacional, criar um modelo de Machine Learning utilizando o Python e as principais bibliotecas na área de Ciência de dados.
 
 ## Dia 1
-### Sua primeira análise de dados
+### [Sua primeira análise de dados](https://github.com/audreyemmely/imersao-dados-alura/blob/main/aula01_desafio01.ipynb)
 Faça sua primeira análise de dados e já tire suas próprias conclusões criando gráficos e analisando algumas estatísticas.
 
 ## Dia 2
