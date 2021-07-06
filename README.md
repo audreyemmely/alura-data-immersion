@@ -8,7 +8,7 @@ Explorar base de dados do sistema educacional, criar um modelo de Machine Learni
 Faça sua primeira análise de dados e já tire suas próprias conclusões criando gráficos e analisando algumas estatísticas.
 
 ## Dia 2
-### Análise Exploratória de Dados
+### [Análise Exploratória de Dados](https://github.com/audreyemmely/imersao-dados-alura/blob/main/aula02_desafio02.ipynb)
 Entenda o que é e avance sua análise exploratória de dados criando novas visualizações que ajudam a entender estatísticas mais avançadas.
 
 ## Dia 3
